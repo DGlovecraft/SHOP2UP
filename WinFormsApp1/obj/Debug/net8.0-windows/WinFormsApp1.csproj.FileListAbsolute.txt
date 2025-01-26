@@ -1,0 +1,84 @@
+D:\object programming\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\object programming\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\object programming\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\object programming\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\object programming\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\object programming\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\object programming\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\object programming\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\object programming\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\object programming\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\object programming\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\object programming\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\object programming\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\object programming\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\object programming\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\object programming\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\object programming\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+D:\object programming\ShoppingCart\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\object programming\ShoppingCart\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\object programming\ShoppingCart\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\object programming\ShoppingCart\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\object programming\ShoppingCart\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+D:\object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\1object programming\ShoppingCart\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\1object programming\ShoppingCart\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\1object programming\ShoppingCart\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\1object programming\ShoppingCart\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\1object programming\ShoppingCart\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\1object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\1object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\1object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\1object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\1object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\1object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\1object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+D:\1object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\1object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\1object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\1object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\1object programming\ShoppingCart\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\shoppingCartfeat\ShoppingCart_FuncTionV2-main\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\shoppingCartfeat\ShoppingCart_FuncTionV2-main\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\shoppingCartfeat\ShoppingCart_FuncTionV2-main\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\shoppingCartfeat\ShoppingCart_FuncTionV2-main\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\shoppingCartfeat\ShoppingCart_FuncTionV2-main\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\shoppingCartfeat\ShoppingCart_FuncTionV2-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\shoppingCartfeat\ShoppingCart_FuncTionV2-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\shoppingCartfeat\ShoppingCart_FuncTionV2-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\shoppingCartfeat\ShoppingCart_FuncTionV2-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\shoppingCartfeat\ShoppingCart_FuncTionV2-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\shoppingCartfeat\ShoppingCart_FuncTionV2-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\shoppingCartfeat\ShoppingCart_FuncTionV2-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\shoppingCartfeat\ShoppingCart_FuncTionV2-main\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\shoppingCartfeat\ShoppingCart_FuncTionV2-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\shoppingCartfeat\ShoppingCart_FuncTionV2-main\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\shoppingCartfeat\ShoppingCart_FuncTionV2-main\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\shoppingCartfeat\UPDATESHOP\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\shoppingCartfeat\UPDATESHOP\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\shoppingCartfeat\UPDATESHOP\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\shoppingCartfeat\UPDATESHOP\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\shoppingCartfeat\UPDATESHOP\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\shoppingCartfeat\UPDATESHOP\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\shoppingCartfeat\UPDATESHOP\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.sourcelink.json
+D:\shoppingCartfeat\UPDATESHOP\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\shoppingCartfeat\UPDATESHOP\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\shoppingCartfeat\UPDATESHOP\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\shoppingCartfeat\UPDATESHOP\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\shoppingCartfeat\UPDATESHOP\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\shoppingCartfeat\UPDATESHOP\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\shoppingCartfeat\UPDATESHOP\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\shoppingCartfeat\UPDATESHOP\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\shoppingCartfeat\UPDATESHOP\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\shoppingCartfeat\UPDATESHOP\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
